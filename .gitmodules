@@ -1,0 +1,3 @@
+[submodule "subm_test"]
+	path = subm_test
+	url = https://github.com/NamWoo/subm_test.git
